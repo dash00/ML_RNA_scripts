@@ -1,3 +1,8 @@
+#
+# File directly inspired from the content of 
+# Raschka, Sebastian. Python machine learning. Birmingham, UK: Packt Publishing, 2015. Print.
+#
+
 from common import *
 
 
